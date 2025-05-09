@@ -6,6 +6,13 @@ YOWU PC App to control the headphones light.
 This is not official App and not related to YOWU. It was inspired by [Yowu-CatCaller](https://github.com/FredYeye/Yowu-CatCaller)
 
 
+Supported headphones
+--------------------
+
+* YOWU-SELKIRK-4
+* YOWU-SELKIRK-4GS
+
+
 Common usage
 ------------
 
@@ -57,4 +64,3 @@ Requirements
 * [pygobject](https://pygobject.gnome.org/)
 * [gtk3](https://gtk.org)
 * [bleak](https://github.com/hbldh/bleak)
-
