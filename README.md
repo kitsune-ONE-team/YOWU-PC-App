@@ -6,6 +6,12 @@ YOWU PC App to control the headphones light.
 This is not official App and not related to YOWU. It was inspired by [Yowu-CatCaller](https://github.com/FredYeye/Yowu-CatCaller)
 
 
+Demo video
+----------
+
+[![Demo video](https://img.youtube.com/vi/ETa8l0tYyTQ/0.jpg)](https://www.youtube.com/watch?v=ETa8l0tYyTQ)
+
+
 Supported headphones
 --------------------
 
